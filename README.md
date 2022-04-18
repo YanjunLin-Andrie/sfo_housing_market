@@ -1,4 +1,4 @@
-![mainpic](images/mainpic.png)
+![mainpic](Images/mainpic.png)
 # San Francisco Real Estate Market 2010-2016
 
 >In this Jupyter Lab, I am analyzing the possible real estate investment opportunities of San Francisco during 2010 to 2016. Property price per squarefootage and gross rental income were sorted by years and neighborhood to identify potential one-click, buy-and-rent targets.
@@ -33,19 +33,19 @@ Before running the Jupyter notebook file, first, install the following dependenc
     
 * Calculate and plot the housing units per year
 
-![housing_unit_by_year](images/housing_unit_by_year.png)
+![housing_unit_by_year](Images/housing_unit_by_year.png)
 
 * Calculate and plot the average prices per square foot
 
-![rent_price](images/rent_price.png)
+![rent_price](Images/rent_price.png)
 
 * Compare the average prices by neighborhood
 
-![neighborhood_pricing](images/neighborhood_pricing.png)
+![neighborhood_pricing](Images/neighborhood_pricing.png)
 
 * Build an interactive neighborhood map
 
-![pointplot](images/pointplot.png)
+![pointplot](Images/pointplot.png)
 
 ---
 ## Contributors
